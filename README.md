@@ -7,6 +7,8 @@ Aplikasi untuk enskripsi dan deskripsi dengan metode geser dan kemudian history 
 2. RAYKHAN BIMA OKTAVIAJI  (17.83.0089)
 3. ALDITO RAMA DANA        (17.83.0112)
 
+#reference
+http://www.trytoprogram.com/cpp-examples/cplusplus-program-encrypt-decrypt-string/
 
 
 
