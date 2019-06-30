@@ -1,4 +1,4 @@
-# Implementasi Kriptografi Caesar Cipher
+# Implementasi Kriptografi Caesar Cipher Menggunakan C++
 Aplikasi untuk enskripsi dan deskripsi dengan metode geser dan kemudian history akan disimpan kedalam sebuah file, plan pertama yaitu menambahkan sistem login untuk menggunakan aplikasi tersebut dan fitur fitur lain akan mengikuti update selanjutnya.
 # Authors
 * KELOMPOK 8
