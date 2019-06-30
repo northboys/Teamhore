@@ -3,9 +3,9 @@ Aplikasi untuk enskripsi dan deskripsi dengan metode geser dan kemudian history 
 # Authors
 * KELOMPOK 8
 
-1. ACH IZALUL HAQ          (17.83.0084)
-2. RAYKHAN BIMA OKTAVIAJI  (17.83.0089)
-3. ALDITO RAMA DANA        (17.83.0112)
+1. ACH IZALUL HAQ          17.83.0084
+2. RAYKHAN BIMA OKTAVIAJI  17.83.0089
+3. ALDITO RAMA DANA        17.83.0112
 
 # Reference
 http://www.trytoprogram.com/cpp-examples/cplusplus-program-encrypt-decrypt-string/
