@@ -1,5 +1,5 @@
 # Implementasi Kriptografi Caesar Cipher
-aplikasi untuk enskripsi dan deskripsi dengan metode geser dan kemudian history akan disimpan kedalam sebuah file, plan pertama yaitu menambahkan sistem login untuk menggunakan aplikasi tersebut dan fitur fitur lain akan mengikuti update selanjutnya.
+Aplikasi untuk enskripsi dan deskripsi dengan metode geser dan kemudian history akan disimpan kedalam sebuah file, plan pertama yaitu menambahkan sistem login untuk menggunakan aplikasi tersebut dan fitur fitur lain akan mengikuti update selanjutnya.
 # Authors
 KELOMPOK 8
 
