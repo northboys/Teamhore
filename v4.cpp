@@ -9,7 +9,9 @@ int main()
     int i, x;
     char str[100], selection, q;
 menu:
-
+    cout << "======================" << endl;
+    cout << "CAESAR CIPHER" << endl;
+    cout << "======================" << endl;
     ofstream myfile;
     myfile.open("history.txt", ios::app);
     cout << "masukkan kata:\t";
