@@ -1,7 +1,7 @@
-//Simple C++ program to encrypt and decrypt a string
+//Enkripsi dan deskripsi sederhana 
 
-#include <iostream>
-#include <fstream>
+#include <iostream> 
+#include <fstream> //header untuk membaca dan menulis dari / ke file.
 using namespace std;
 
 int main()
@@ -34,13 +34,15 @@ menu:
     cout << "Pilih salah satu :";
     cin >> x;
 
-    //using switch case statements
+    
+    //menggunakan switch case 
     switch (x)
     {
-    //first case for encrypting a string
+    //enkripsi 5 diambah kan dengan nilai ASCII
     case 1:
         for (i = 0; (i < 100 && str[i] != '\0'); i++)
-            str[i] = str[i] + 2; //the key for encryption is 3 that is added to ASCII value
+            str[i] = str[i] + 5;    
+   
 
         cout << "\nHasil Enkripsi kata: " << str << endl;
 
@@ -61,10 +63,10 @@ menu:
         cin.get();
         break;
 
-    //second case for decrypting a string
+    //deskripsi dengan mengurangi nilai ASCII dengan 5
     case 2:
         for (i = 0; (i < 100 && str[i] != '\0'); i++)
-            str[i] = str[i] - 2; //the key for encryption is 3 that is subtracted to ASCII value
+            str[i] = str[i] - 5; //the key for encryption is 3 that is subtracted to ASCII value
 
         cout << "\nHasil Deskripsi kata: " << str << endl;
         cout << "Apakah anda ingin mencoba lagi? [Y/N] : ";
@@ -94,13 +96,13 @@ menu:
              << endl;
         goto menu;
     case 4:
-        string line;
+        string hore;
         ifstream myfile("history.txt");
         if (myfile.is_open())
         {
-            while (getline(myfile, line))
+            while (getline(myfile, hore))
             {
-                cout << line << '\n';
+                cout << hore << '\n';
             }
             myfile.close();
         }
