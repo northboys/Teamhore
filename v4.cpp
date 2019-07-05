@@ -18,7 +18,7 @@ menu:
            << str;
     myfile.close();
 
-    cout << "\nPlease choose following options:\n";
+    cout << "\nPilih sak seneng mu wae aku loss kok :\n";
     cout << "1."
          << "\t"
          << "Enkripsi kata.\n";
